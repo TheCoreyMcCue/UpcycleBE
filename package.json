@@ -4,6 +4,7 @@
   "description": "Upcycle app back end repo",
   "main": "server.js",
   "scripts": {
+    "start": "node upcycle-backend/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Corey McCue",
