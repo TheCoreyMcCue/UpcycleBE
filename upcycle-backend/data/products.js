@@ -52,5 +52,25 @@ const products = [
     description:
       "Lizards are a widespread group of squamate reptile with over 6,000 species,branging across all continents except Antarctica Lizards are a widespread group of squamate reptile with over 6,000 species,branging across all continents except Antarctica",
   },
+  {
+    title: "Custom Joe Mamma Deck",
+    id: "5",
+    image:
+      "https://imgs.search.brave.com/x9BEjMesrUCKMTk0_3LgwZD6fSKz7dc3GylnG49CBMQ/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/Ym9hcmRwdXNoZXIu/Y29tL2Jsb2cvd3At/Y29udGVudC91cGxv/YWRzLzIwMTcvMTIv/Ym9hcmRwdXNoZXIt/ZGlnaXRhbC1jYXJi/aW5lLWRlYWQtc2Ft/dXJhaS1za3VsbC1j/dXN0b20tc2thdGVi/b2FyZC1iaWcuanBn",
+    price: 80,
+    rating: 4,
+    description:
+      "Lizards are a widespread group of squamate reptile with over 6,000 species,branging across all continents except Antarctica Lizards are a widespread group of squamate reptile with over 6,000 species,branging across all continents except Antarctica",
+  },
+  {
+    title: "Custom Joe Mamma Deck",
+    id: "5",
+    image:
+      "https://imgs.search.brave.com/x9BEjMesrUCKMTk0_3LgwZD6fSKz7dc3GylnG49CBMQ/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/Ym9hcmRwdXNoZXIu/Y29tL2Jsb2cvd3At/Y29udGVudC91cGxv/YWRzLzIwMTcvMTIv/Ym9hcmRwdXNoZXIt/ZGlnaXRhbC1jYXJi/aW5lLWRlYWQtc2Ft/dXJhaS1za3VsbC1j/dXN0b20tc2thdGVi/b2FyZC1iaWcuanBn",
+    price: 80,
+    rating: 4,
+    description:
+      "Lizards are a widespread group of squamate reptile with over 6,000 species,branging across all continents except Antarctica Lizards are a widespread group of squamate reptile with over 6,000 species,branging across all continents except Antarctica",
+  },
 ];
 module.exports = products;
