@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Upcycle app back end repo",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "start": "node upcycle-backend/server.js",
     "server": "nodemon upcycle-backend/server.js",

@@ -1,6 +1,6 @@
 const description =
   "Lizards are a widespread group of squamate reptile with over 6,000 species,branging across all continents except Antarctica Lizards are a widespread group of squamate reptile with over 6,000 species,branging across all continents except Antarctica";
-const products = [
+export const products = [
   {
     title: "Complete Element Deck with Spitfire Wheels",
     id: "1",
@@ -73,4 +73,3 @@ const products = [
       "Lizards are a widespread group of squamate reptile with over 6,000 species,branging across all continents except Antarctica Lizards are a widespread group of squamate reptile with over 6,000 species,branging across all continents except Antarctica",
   },
 ];
-module.exports = products;
