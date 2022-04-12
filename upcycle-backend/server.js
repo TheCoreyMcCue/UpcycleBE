@@ -1,4 +1,5 @@
 import { connectDB } from "./config/db.js";
+import colors from "colors";
 import dotenv from "dotenv";
 import express from "express";
 import { products } from "./data/products.js";
@@ -26,6 +27,7 @@ const port = process.env.PORT || 5000;
 app.listen(
   port,
   console.log(
-    `Server running in ${process.env.PORT} enviornment on port ${port}`
+    `Server running in ${process.env.NODE_ENV} enviornment on port ${port}`
+      .yellow.bold
   )
 );
